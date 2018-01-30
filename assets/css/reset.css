@@ -1,0 +1,26 @@
+*{margin:0;
+padding:0;
+box-sizing: border-box;}
+
+html, body{height:100%;}
+
+img {max-width: 100%;}
+
+a{text-decoration: none;}
+
+.row {
+    display: flex;
+  }
+  
+  .y-center {
+    align-items: center;
+  }
+  
+  .x-center {
+    justify-content: center;
+  }
+  
+  .split {
+    justify-content: space-between;
+  }
+  
